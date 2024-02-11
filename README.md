@@ -1,6 +1,6 @@
 - 👋 Hi, I’m m2vic
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning back end part to entry my first job soon
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently grinding on Leetcode to entry my first job soon
 
 <!---
 m2vic/m2vic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
